@@ -1,2 +1,2 @@
 # ggjimbob
-help
+# please enjoy my first project
