@@ -1,2 +1,1 @@
-# ggjimbob
-# please enjoy my first project
+alright so this is my first actual game type project and i would like to say that my if statements were wrong so i got some advice from my friend, orange the wiz, and i used that and now its done and works, thank you for using my project i really appreciate it
